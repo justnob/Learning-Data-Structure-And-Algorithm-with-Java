@@ -1,0 +1,14 @@
+omega = best case
+
+O- = average case
+
+O = worse case
+
+
+O(1) = it shows that for a given code the code wll take 1 time event and constant time to complete the task
+
+o(n) = it shows that the the given code will take time is equal to the length of the data it has to execute on
+
+O(logN) = Divide and conquer technique where if we need to search some number in sorted array we nee log2^? = length of array. 
+
+let say the array is length of 8 then the log equation will be log2^3 = 8. 2 is because we will divide the array in 2 parts untill we find the number which we are searching for.

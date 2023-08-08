@@ -1,0 +1,14 @@
+there are multiple types of algorithms ther are:-
+
+1.Simple recursive algorithms = recursive algorithm works just like loop with call it self recursively for the number of times defined.
+
+2.Divide and conquer algorithms = dividing the problem to the subproblems of the same type, and solve the subproblems recursively and then conbine the solution to the subproblems into a solution to the original problem.
+example: Quick sort and Mearge sort 
+
+3.Dynamic programming algorithms = they works based on memorization, to find the best solution.
+
+4.Greed algorithms = we take the best we can without worrying about future consequences, we hope that by choosing a local optimum solution at each step, we will end up at globle optimum solution.
+
+5.Brute force algorithms = it simply tries all possibilities until a satisfactory solution is found.
+
+6.Randomized algorithms = Use a random number at least once during the computstion to make a desision.
